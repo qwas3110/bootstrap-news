@@ -1,0 +1,7 @@
+.navbar-brand {
+    background-image: url("../img/Beats.png");
+    width: 50px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
