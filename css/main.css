@@ -5,3 +5,17 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+.side-bar .list-group-item {
+    /*不要边框*/
+    border: 0;
+    /*鼠标滑上去的时候有圆角*/
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+.side-bar .list-group-item.active {
+    background-color: red;
+}
+
+
